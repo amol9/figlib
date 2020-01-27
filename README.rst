@@ -1,5 +1,5 @@
 ======
-redlib
+figlib
 ======
 
 A library for program configuration.
